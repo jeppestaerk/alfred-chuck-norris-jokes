@@ -341,7 +341,7 @@ Privacy Statement: https://api.chucknorris.io/privacy</string>
 				<key>escaping</key>
 				<integer>119</integer>
 				<key>script</key>
-				<string>say -v Tessa "{query}"</string>
+				<string>say -v Tessa -r 250 "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -457,11 +457,6 @@ Privacy Statement: https://api.chucknorris.io/privacy</string>
 			<key>ypos</key>
 			<integer>230</integer>
 		</dict>
-	</dict>
-	<key>variables</key>
-	<dict>
-		<key>firstrun</key>
-		<string>1</string>
 	</dict>
 	<key>version</key>
 	<string></string>

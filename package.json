@@ -7,7 +7,7 @@
   "author": {
     "name": "Jeppe Stærk",
     "email": "hello@staerk.io",
-    "url": "https://staerk.io"
+    "url": "https://github.com/jeppestaerk/alfred-chuck-norris-jokes"
   },
   "engines": {
     "node": ">=4"
@@ -24,7 +24,9 @@
   "keywords": [
     "alfred",
     "workflow",
-    "alfy"
+    "alfred-workflow",
+    "alfy",
+    "chucknorrisjoke"
   ],
   "dependencies": {
     "alfy": "^0.6.0"

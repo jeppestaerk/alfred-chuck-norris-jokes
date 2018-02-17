@@ -1,6 +1,7 @@
 'use strict';
 const alfy = require('alfy');
 
+const api = 'https://api.chucknorris.io';
 const output = [];
 const promises = [];
 
@@ -36,14 +37,14 @@ function addJoke(joke) {
 
 function getChuckNorrisJokeFromCategory(category) {
 	return new Promise((resolve) => {
-		alfy.fetch(`https://api.chucknorris.io/jokes/random?category=${category}`).then(joke => {
+		alfy.fetch(`${api}/jokes/random?category=${category}`).then(joke => {
 			addJoke(joke);
 			resolve(joke);
 		});
 	});
 }
 
-alfy.fetch('https://api.chucknorris.io/jokes/categories').then(categories => {
+alfy.fetch(`${api}/jokes/categories`).then(categories => {
 	categories.forEach(category => promises.push(getChuckNorrisJokeFromCategory(category)));
 	Promise.all(promises).then(() => alfy.output(output));
 });
