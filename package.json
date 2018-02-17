@@ -1,19 +1,18 @@
 {
-  "name": "alfred-staerkio",
-  "version": "0.0.0",
-  "description": "Nothing",
+  "name": "alfred-chuck-norris-jokes",
+  "version": "0.1.0",
+  "description": "Get Chuck Norris jokes inline in alfred",
   "license": "MIT",
-  "repository": "jeppestaerk/alfred-staerkio",
+  "repository": "jeppestaerk/alfred-chuck-norris-jokes",
   "author": {
     "name": "Jeppe Stærk",
-    "email": "jeppe@staerk.io",
-    "url": "sio.staerk.io"
+    "email": "hello@staerk.io",
+    "url": "https://staerk.io"
   },
   "engines": {
     "node": ">=4"
   },
   "scripts": {
-    "test": "xo && ava",
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
   },
@@ -30,9 +29,5 @@
   "dependencies": {
     "alfy": "^0.6.0"
   },
-  "devDependencies": {
-    "alfy-test": "^0.3.0",
-    "ava": "^0.18.0",
-    "xo": "^0.17.0"
-  }
+  "devDependencies": {}
 }

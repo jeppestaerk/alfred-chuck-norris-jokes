@@ -2,7 +2,7 @@
   "generator-alfred": {
     "promptValues": {
       "githubUsername": "jeppestaerk",
-      "website": "http://sio.staerk.io"
+      "website": "https://sio.staerk.io"
     }
   }
 }
