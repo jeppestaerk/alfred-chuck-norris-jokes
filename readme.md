@@ -1,7 +1,6 @@
 # alfred-chuck-norris-jokes [![Build Status](https://travis-ci.org/jeppestaerk/alfred-chuck-norris-jokes.svg?branch=master)](https://travis-ci.org/jeppestaerk/alfred-chuck-norris-jokes)
 
-> Nothing
-
+> Get Chuck Norris jokes inline in alfred
 
 ## Install
 
@@ -19,11 +18,11 @@ Or use the keyboard shortcut <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>C</k
 
 ## Pro tips
 
-* Press `<kbd>Enter</kbd>` to see the full joke in Alfreds Large Type.
-* Press `<kbd>Command</kbd> + <kbd>Enter</kbd>` to copy the joke to your clipboard.
-* Press `<kbd>Option</kbd> + <kbd>Enter</kbd>` to get the joke read aloud via your systems text-to-speech.
-* Press `<kbd>Control</kbd> + <kbd>Enter</kbd>` to open the joke in your favorit browser.
-* Press `<kbd>Command</kbd> + <kbd>Y</kbd>` to open in quickview.
+* Press <kbd>Enter</kbd> to see the full joke in Alfreds Large Type.
+* Press <kbd>Command</kbd> + <kbd>Enter</kbd> to copy the joke to your clipboard.
+* Press <kbd>Option</kbd> + <kbd>Enter</kbd> to get the joke read aloud via your systems text-to-speech.
+* Press <kbd>Control</kbd> + <kbd>Enter</kbd> to open the joke in your favorit browser.
+* Press <kbd>Command</kbd> + <kbd>Y</kbd> to open in quickview.
 
 ## Third party
 
