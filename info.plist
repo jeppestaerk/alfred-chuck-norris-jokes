@@ -126,6 +126,16 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CCFE899C-E1B6-469A-92C7-49AC0ADDBE03</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>How to use this workflow</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -138,30 +148,6 @@
 	<string>Chuck Norris Jokes</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>largetypetext</key>
-				<string>Wow! Your first use af this awesome workflow!
-
-Here is som pro tips!:
-- Use shortcut ⌃ + ⌘ + C for quick access. 
-- Press ⏎ to see the full joke in Alfreds Large Type.
-- Press ⌘ + ⏎ to copy the joke to your clipboard.
-- Press ⌥ + ⏎ to get the joke read aloud via your systems text-to-speech.
-- Press ⌃ + ⏎ to open the joke in your favorit browser.
-- Press ⌘ + Y to open in quickview. 
-
-This workflow calls api.chucknorris.io via https to fatch jokes.
-Privacy Statement: https://api.chucknorris.io/privacy</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.largetype</string>
-			<key>uid</key>
-			<string>CCFE899C-E1B6-469A-92C7-49AC0ADDBE03</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -359,6 +345,28 @@ Privacy Statement: https://api.chucknorris.io/privacy</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>largetypetext</key>
+				<string>Here is some pro tips!:
+- Use shortcut ⌃ + ⌘ + C for quick access. 
+- Press ⏎ to see the full joke in Alfreds Large Type.
+- Press ⌘ + ⏎ to copy the joke to your clipboard.
+- Press ⌥ + ⏎ to get the joke read aloud via your systems text-to-speech.
+- Press ⌃ + ⏎ to open the joke in your favorit browser.
+- Press ⌘ + Y to open in quickview. 
+
+This workflow calls api.chucknorris.io via https to fatch jokes.
+Privacy Statement: https://api.chucknorris.io/privacy</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>CCFE899C-E1B6-469A-92C7-49AC0ADDBE03</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -441,7 +449,7 @@ Privacy Statement: https://api.chucknorris.io/privacy</string>
 			<key>xpos</key>
 			<integer>280</integer>
 			<key>ypos</key>
-			<integer>30</integer>
+			<integer>420</integer>
 		</dict>
 		<key>D8275FDE-6145-46C4-AD00-8A0365E61736</key>
 		<dict>
