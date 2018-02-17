@@ -14,6 +14,7 @@ $ npm install --global alfred-chuck-norris-jokes
 ## Usage
 
 In Alfred, type `chucknorris`, <kbd>Enter</kbd>.
+
 Or use the keyboard shortcut <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>C</kbd>.
 
 ## Pro tips
@@ -27,8 +28,10 @@ Or use the keyboard shortcut <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>C</k
 ## Third party
 
 This workflow use https://api.chucknorris.io via `https` to fetch jokes.
+
 This workflows icon is provided by the `api.chucknorris.io` as well.
-There privacy Statement can be read here: https://api.chucknorris.io/privacy
+
+There privacy statement can be read here: https://api.chucknorris.io/privacy
 
 ## License
 
