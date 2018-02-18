@@ -1,5 +1,6 @@
 'use strict';
 const alfy = require('alfy');
+const alfredNotifier = require('alfred-notifier');
 
 const api = 'https://api.chucknorris.io';
 const output = [];
@@ -43,6 +44,8 @@ function getChuckNorrisJokeFromCategory(category) {
 		});
 	});
 }
+
+alfredNotifier();
 
 alfy.fetch(`${api}/jokes/categories`).then(categories => {
 	categories.forEach(category => promises.push(getChuckNorrisJokeFromCategory(category)));

@@ -1,6 +1,6 @@
 {
   "name": "alfred-chuck-norris-jokes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get Chuck Norris jokes inline in alfred",
   "license": "MIT",
   "repository": "jeppestaerk/alfred-chuck-norris-jokes",
@@ -29,6 +29,7 @@
     "chucknorrisjoke"
   ],
   "dependencies": {
+    "alfred-notifier": "^0.2.3",
     "alfy": "^0.6.0"
   },
   "devDependencies": {}
