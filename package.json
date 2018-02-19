@@ -1,6 +1,6 @@
 {
   "name": "alfred-chuck-norris-jokes",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Get Chuck Norris jokes inline in alfred",
   "license": "MIT",
   "repository": "jeppestaerk/alfred-chuck-norris-jokes",
