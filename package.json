@@ -1,12 +1,12 @@
 {
   "name": "alfred-chuck-norris-jokes",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Get Chuck Norris jokes inline in alfred",
   "license": "MIT",
   "repository": "jeppestaerk/alfred-chuck-norris-jokes",
   "author": {
     "name": "Jeppe Stærk",
-    "email": "hello@staerk.io",
+    "email": "dev@staerk.io",
     "url": "https://github.com/jeppestaerk/alfred-chuck-norris-jokes"
   },
   "engines": {
