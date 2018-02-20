@@ -2,7 +2,7 @@
 
 > Get Chuck Norris jokes inline in alfred
 
-![Preview](https://github.com/jeppestaerk/alfred-chuck-norris-jokes/preview.png)
+![Preview](https://github.com/jeppestaerk/alfred-chuck-norris-jokes/blob/master/preview.png)
 
 ## Install
 
