@@ -2,6 +2,8 @@
 
 > Get Chuck Norris jokes inline in alfred
 
+![Preview](https://travis-ci.org/jeppestaerk/alfred-chuck-norris-jokes/preview-png)
+
 ## Install
 
 ```
