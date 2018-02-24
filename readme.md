@@ -1,8 +1,9 @@
 # alfred-chuck-norris-jokes [![Build Status](https://travis-ci.org/jeppestaerk/alfred-chuck-norris-jokes.svg?branch=master)](https://travis-ci.org/jeppestaerk/alfred-chuck-norris-jokes)
 
-> Get Chuck Norris jokes inline in alfred
+> Get Chuck Norris jokes inline in Alfred 3
 
-![Preview](https://github.com/jeppestaerk/alfred-chuck-norris-jokes/blob/master/preview.png)
+<img src="preview.gif" width="600">
+
 
 ## Install
 
@@ -27,13 +28,15 @@ Or use the keyboard shortcut <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>C</k
 * Press <kbd>Control</kbd> + <kbd>Enter</kbd> to open the joke in your favorit browser.
 * Press <kbd>Command</kbd> + <kbd>Y</kbd> to open in quickview.
 
-## Third party
+
+## Credits
 
 This workflow use https://api.chucknorris.io via `https` to fetch jokes.
 
 This workflows icon is provided by the `api.chucknorris.io` as well.
 
 There privacy statement can be read here: https://api.chucknorris.io/privacy
+
 
 ## License
 
